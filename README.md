@@ -24,3 +24,7 @@ Bahasa Melayu: Kredit kepada ikerjigo
 فارسی: اعتبار به   ikerjigo
 Türkçe: Krediler ikerjigo'ya  
 Kiswahili: Mikopo kwa ikerjigo  
+
+
+Vayan a darle apoyo: [https://github.com/ikerjigo/debian-setup](https://github.com/ikerjigo/debian-setup)
+Like and subscribe
